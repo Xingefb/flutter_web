@@ -1,0 +1,131 @@
+name: doworking
+description: A new Flutter project of working
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dio: ^2.1.16
+  event_bus: ^1.1.0
+  flutter_html: ^0.10.4
+  connectivity: ^0.4.4
+  url_launcher: ^5.1.2
+  fluttertoast: ^3.1.2
+  path_provider: ^1.2.0
+  flutter_picker: ^1.0.15
+  auto_size_text: ^2.1.0
+  flutter_swiper: ^1.1.6
+  flutter_spinkit: ^4.0.0
+  json_annotation: ^3.0.0
+  shared_preferences: ^0.5.3+4
+  keyboard_visibility: ^0.5.6
+  cached_network_image: ^1.1.1
+  jpush_flutter:
+    git:
+      url: https://github.com/Xingefb/jpush-flutter-plugin.git
+      ref: master
+  dropdown_menu: ^1.1.1
+  city_pickers: ^0.1.23
+  # um_plugin: ^1.0.4
+  flutter_umplus: ^0.0.1
+  meiqiachat: ^1.0.2
+  imei_plugin: ^1.1.4
+  webview_flutter: ^0.3.14
+  package_info: ^0.4.0+6
+  device_info: ^0.4.0+2
+  cupertino_icons: ^0.1.2
+  splashscreen: ^1.2.0
+  openinstall_flutter_plugin: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  json_serializable: ^3.2.2
+  build_runner: ^1.6.7
+  flutter_launcher_icons: ^0.7.2+1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    # assets-generator-begin
+    # assets/images/*
+    - assets/images/1@2x.png
+    - assets/images/2@2x.png
+    - assets/images/3@2x.png
+    - assets/images/applyicon2@2x.png
+    - assets/images/applyicon@2x.png
+    - assets/images/banner_back@2x.png
+    - assets/images/cancle_icon@2x.png
+    - assets/images/collect_n@2x.png
+    - assets/images/collect_s@2x.png
+    - assets/images/current_index@2x.png
+    - assets/images/head_image@2x.png
+    - assets/images/icon_place@2x.png
+    - assets/images/nocollect@2x.png
+    - assets/images/nodata@2x.png
+    - assets/images/nonews@2x.png
+    - assets/images/nowifi@2x.png
+    - assets/images/other_index@2x.png
+    - assets/images/search@2x.png
+    - assets/images/setting@2x.png
+    - assets/images/taotao@2x.png
+    - assets/images/优选@2x.png
+    - assets/images/优选s@2x.png
+    - assets/images/全部@2x.png
+    - assets/images/公司@2x.png
+    - assets/images/关于我们@2x.png
+    - assets/images/客服@2x.png
+    - assets/images/已完成@2x.png
+    - assets/images/已录取@2x.png
+    - assets/images/已报名@2x.png
+    - assets/images/意见反馈@2x.png
+    - assets/images/我的@2x.png
+    - assets/images/我的s@2x.png
+    - assets/images/我的投递@2x.png
+    - assets/images/我的简历@2x.png
+    - assets/images/消息@2x.png
+    - assets/images/消息s@2x.png
+    - assets/images/职位收藏@2x.png
+    - assets/images/联系我们.png
+    - assets/images/联系我们@2x.png
+    - assets/images/通知@2x.png
+    - assets/images/首页@2x.png
+    - assets/images/首页s@2x.png
+    - assets/images/默认头像@2x.png
+    # assets-generator-end
+ 
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

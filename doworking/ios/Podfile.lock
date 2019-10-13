@@ -1,0 +1,172 @@
+PODS:
+  - city_pickers (0.0.1):
+    - Flutter
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_picker (0.0.1):
+    - Flutter
+  - flutter_umplus (0.0.1):
+    - Flutter
+    - UMCAnalytics
+    - UMCCommon
+    - UMCCommonLog
+    - UMCErrorCatch
+  - fluttertoast (0.0.2):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - imei_plugin (0.0.1):
+    - Flutter
+  - JCore (2.1.1)
+  - JPush (3.2.2):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - jpush_flutter (0.0.2):
+    - Flutter
+    - JPush
+  - keyboard_visibility (0.5.0):
+    - Flutter
+    - Reachability
+  - libOpenInstallSDK (2.3.0)
+  - Meiqia (3.4.9):
+    - Meiqia/MeiqiaSDK (= 3.4.9)
+    - Meiqia/MQChatViewController (= 3.4.9)
+  - Meiqia/MeiqiaSDK (3.4.9)
+  - Meiqia/MQChatViewController (3.4.9):
+    - Meiqia/MeiqiaSDK
+  - meiqiachat (1.0.2):
+    - Flutter
+    - Meiqia (~> 3.4.9)
+  - openinstall_flutter_plugin (0.0.1):
+    - Flutter
+    - libOpenInstallSDK
+  - package_info (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - Reachability (3.2)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - UMCAnalytics (6.0.5):
+    - UMCCommon
+  - UMCCommon (2.1.1)
+  - UMCCommonLog (1.0.0)
+  - UMCErrorCatch (1.0.0):
+    - UMCCommon
+  - url_launcher (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - city_pickers (from `.symlinks/plugins/city_pickers/ios`)
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_picker (from `.symlinks/plugins/flutter_picker/ios`)
+  - flutter_umplus (from `.symlinks/plugins/flutter_umplus/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - imei_plugin (from `.symlinks/plugins/imei_plugin/ios`)
+  - jpush_flutter (from `.symlinks/plugins/jpush_flutter/ios`)
+  - keyboard_visibility (from `.symlinks/plugins/keyboard_visibility/ios`)
+  - meiqiachat (from `.symlinks/plugins/meiqiachat/ios`)
+  - openinstall_flutter_plugin (from `.symlinks/plugins/openinstall_flutter_plugin/ios`)
+  - package_info (from `.symlinks/plugins/package_info/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FMDB
+    - JCore
+    - JPush
+    - libOpenInstallSDK
+    - Meiqia
+    - Reachability
+  trunk:
+    - UMCAnalytics
+    - UMCCommon
+    - UMCCommonLog
+    - UMCErrorCatch
+
+EXTERNAL SOURCES:
+  city_pickers:
+    :path: ".symlinks/plugins/city_pickers/ios"
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_picker:
+    :path: ".symlinks/plugins/flutter_picker/ios"
+  flutter_umplus:
+    :path: ".symlinks/plugins/flutter_umplus/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  imei_plugin:
+    :path: ".symlinks/plugins/imei_plugin/ios"
+  jpush_flutter:
+    :path: ".symlinks/plugins/jpush_flutter/ios"
+  keyboard_visibility:
+    :path: ".symlinks/plugins/keyboard_visibility/ios"
+  meiqiachat:
+    :path: ".symlinks/plugins/meiqiachat/ios"
+  openinstall_flutter_plugin:
+    :path: ".symlinks/plugins/openinstall_flutter_plugin/ios"
+  package_info:
+    :path: ".symlinks/plugins/package_info/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  city_pickers: b0370f4c35c201723b5b7fcce10ec29b59d5bc35
+  connectivity: c72716e202a1225ec4810740d5cb56b8ae3bf4cc
+  device_info: 3ebad48f726348f69abd802f3334a8d1ed795fbd
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_picker: 8ff0d7440b4e8327fcc9e6b21a39ef9369e697c7
+  flutter_umplus: be1f2b751dd6110757509fa57c1ffb12edb1c2b2
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  imei_plugin: cb1af7c223ac2d82dcd1457a7137d93d65d2a3cd
+  JCore: 4072327557f0b83cc22dd4041f2f839740c0077b
+  JPush: 0e9088c85c73275629facc311fe5992dfac36eeb
+  jpush_flutter: d7e3a79466eb9447fd940233f02661b514f137c6
+  keyboard_visibility: 96a24de806fe6823c3ad956c01ba2ec6d056616f
+  libOpenInstallSDK: 591755d306aaab15aa3e04db258d12c372797cd6
+  Meiqia: 75776701963217d7bde57a56e65da7b5e1718b3f
+  meiqiachat: 05c999c16da66a6a7159f69835f6812430bed5d2
+  openinstall_flutter_plugin: e6b8486f834eb60b336546442a8b747d4b664cf4
+  package_info: 78cabb3c322943c55d39676f4a5bfc748c01d055
+  path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  sqflite: ff1d9da63c06588cc8d1faf7256d741f16989d5a
+  UMCAnalytics: 045be2cd1ec05aa95ad62405a850757f932e2d59
+  UMCCommon: 971f324a5a99c9d662ae040a815e7e3d7ef8b2a8
+  UMCCommonLog: 05a2d5de21858e3d870551562cff405c1366d244
+  UMCErrorCatch: 51f1b68f920233e90a3fa6d51f0456174507ec78
+  url_launcher: 0067ddb8f10d36786672aa0722a21717dba3a298
+  webview_flutter: 1aa7604e6cdb451a9b7ed2c37d5454c0b440246b
+
+PODFILE CHECKSUM: f49f6685c37f93de1e6ecd4a1c9b7d66e5817e52
+
+COCOAPODS: 1.8.3
